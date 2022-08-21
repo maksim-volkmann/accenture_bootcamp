@@ -684,4 +684,9 @@ a:link {
   .footer-info {
     justify-content: center;
   }
+  .nav2 .nav-button {
+    font-size: 13px;
+    margin-left: 5px;
+    padding: 5px 10px;
+  }
 }
