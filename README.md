@@ -14,7 +14,7 @@ To this:
 
 ![to this](https://github.com/maksim-volkmann/bootcamp_homework_1/blob/main/solution/sol2.png)
 
-Switch lines 11 with 12. Move <img> tag inside the <div class="header-container">
+Switch lines 11 with 12. Move `<img>` tag inside the `<div class="header-container">`.
 
 From this:
 
