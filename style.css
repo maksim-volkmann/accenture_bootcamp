@@ -611,6 +611,13 @@ a:link {
   .footer-logo {
     padding-bottom: 5px;
   }
+  .categories-wrapper {
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  .categories-wrapper .category-card {
+    margin-bottom: 30px;
+  }
 }
 
 @media screen and (max-width: 768px) {
