@@ -2,6 +2,8 @@
 
 Homework for the bootcamp - week one
 
+Live version: https://maksim-volkmann.github.io/bootcamp_homework_1/
+
 ## Explanation
 
 Switch lines 33 with 34.
