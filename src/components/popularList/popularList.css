@@ -1,0 +1,24 @@
+.popularListWrapper {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  border: 1px solid #000;
+  margin-bottom: 30px;
+}
+
+.popularList__title {
+  flex: 20%;
+  text-align: center;
+}
+
+.popularList__description {
+  flex: 60%;
+}
+
+.popularList__released {
+  flex: 20%;
+  text-align: center;
+}

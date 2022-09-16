@@ -1,0 +1,11 @@
+.mainBody {
+  width: 100%;
+  height: calc(100vh - 150px);
+  background-color: rgba(0, 255, 166, 0.11);
+}
+
+.mainBodyWrapper h1 {
+  text-align: center;
+  padding: 20px 0 30px;
+  text-transform: uppercase;
+}
